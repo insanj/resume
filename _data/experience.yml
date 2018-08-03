@@ -1,19 +1,45 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: <a href="https://insanj.com">Freelance Fullstack Engineer</a>
+  position: Philadelphia, PA
+  duration: 2016 &mdash; Present
+  summary: Created the entire technology stack for projects lead by artists, entrepreneurs, and myself. One project was recently chosen by the University of Rochester for alumni recognition &colon; AM/Projected Relation.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: <a href="https://slyce.it">Slyce</a>
+  position: Mobile Developer in Philadelphia, PA
+  duration: July, 2017 &mdash; July, 2018
+  summary: Worked fulltime in Center City, Philadelphia as a software engineer. Contributions ranged from significant work to core mobile SDKs to creative independant projects made to improve the workplace or rearchitect our toolsets. Primary skills included&colon; <ul class="resume-item-list"><li>iOS &mdash; Swift, Objective-C, Xcode</li><li>Android &mdash; Java, Android Studio</li><li>CI &mdash; Jenkins, Makefiles, cross-platform VPS agents</li><li>Agile Management &mdash; JIRA, Planning Poker, Kanban</li><li>Platforms &mdash; Git/Github, Quip, Slack</li></ul>
 
+- company: <a href="https://insanj.com">Lead iOS Devloper</a>
+  position: Objective-C and Swift Developer in NYC, NY
+  duration: 2016
+  summary: Lead startup mobile teams at&colon;<ul class="resume-item-list"><li>REVUU</li><li>DribbleUp</li><li>Gampets</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: <a href="https://insanj.com">Freelance Engineer</a>
+  position: Objective-C and Swift Developer in NYC, NY
+  duration: 2016
+  summary: In 2016 I contributed core technologies to&colon;<ul class="resume-item-list"><li>Giffage</li><li>Cold Open</li><li>Flogg</li><li>Smock</li><li>& other unreleased projects</li></ul>
+
+- company: <a href="https://insanj.com/_archives/#github-contributions">Technology Speaker and Writer</a>
+  position: Blogger and Community Member
+  duration: 2013 &mdash; 2016
+  summary: <ul class="resume-item-list"><li>Medium (previously, personal blogs)</li><li>Twitter</li><li>RocHack</li><li>WWJC (1, 2)</li><li>YouTube</li>
+
+- company: <a href="https://insanj.com/urlinq/">Urlinq</a>
+  position: Vice President of iOS Product Development in NYC, NY
+  duration: 2013 &mdash; 2015
+  summary: Urlinq was a powerful ed-tech network that brought the university experience to the 21st century. Made primarily by NYU students in NYC. Won 1st place at NYU Global Hackathon for Alloy iOS.
+
+- company: <a href="https://insanj.com/_archives/#github-contributions">Jailbreak Developer</a>
+  position: Objective-C/Logos/Theos Engineer
+  duration: 2013 &mdash; 2015
+  summary:  Developed, designed, and managed distribution for over 100 projects, several commercial tweaks, and open source components, such as&colon;<ul class="resume-item-list"><li>Circlet</li><li>SaveGram</li><li>Bluepicker</li></ul>
+
+- company: <a href="https://youtube.com/insanj">Google</a>
+  position: YouTube Partner
+  duration: 2009 &mdash; 2013
+  summary: Wrote, filmed, produced over 250 videos, primarily with a focus on technolgy.
+
+- company: <a href="https://github.com/insanj/BlockChanger">Community Java Developer</a>
+  position: Bukkit Contributor
+  duration: 2011
+  summary: Created several Bukkit mod projects with extensive tutorials on YouTube and Github.
