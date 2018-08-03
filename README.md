@@ -1,16 +1,15 @@
 <p align="center">
    <img src="https://insanj.com/images/summer.jpg" width=75 height=75 />
    <h3 align="center">resume</h3>
-   <h4 align="center">📃 hire me! resume built with jekyll and hosted on http://insanj.com/resume</h4>
+   <h4 align="center">📃 hire me! resume built with <a href="https://github.com/jekyll/jekyll">jekyll</a> & <a href="https://github.com/jglovier/resume-template">resume-template</a></h4>
+   <p align="center">🌎 <a href="https://insanj.com/_resume/_site/">Check it out live</a> or 🌌 <a href="https://insanj.github.io/resume/">Run it from Github</a>!</p>
 </p>
 
-## Built using
-
-- [jekyll](https://github.com/jekyll/jekyll) & [resume-template](https://github.com/jglovier/resume-template)
 
 ## [License](LICENSE)
-
-	Copyright (C) 2018  Julian (insanj) Weiss
+	
+	See LICENSE file for original license.
+	@insanj/resume Copyright (C) 2018. Julian (insanj) Weiss
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
