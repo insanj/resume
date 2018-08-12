@@ -3,6 +3,9 @@ serve:
 	bundle exec jekyll serve
 
 build:
+	bundle exec jekyll build
+
+ghpages:
 	bundle exec jekyll build --destination docs
 
 setup:
