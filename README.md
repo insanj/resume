@@ -3,9 +3,13 @@
    <h3 align="center">resume</h3>
    <h4 align="center">📃 hire me! resume built with <a href="https://github.com/jekyll/jekyll">jekyll</a> & <a href="https://github.com/jglovier/resume-template">resume-template</a></h4>
    <p align="center">🌎 <a href="https://insanj.com/_resume/_site/">Check it out live</a> or 🌌 <a href="https://insanj.github.io/resume/">Run it from Github</a>!</p>
-   <img src="images/screenshot.png" width=300 />
 </p>
 
+---
+
+<p align="center"><img src="images/screenshot.png" width=500 /></p>
+
+---
 
 ## [License](LICENSE)
 	
