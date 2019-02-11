@@ -1,6 +1,6 @@
 serve:
 	python -m webbrowser "http://localhost:4000"
-	bundle exec jekyll serve
+	bundle exec jekyll serve --watch
 
 build:
 	bundle exec jekyll build

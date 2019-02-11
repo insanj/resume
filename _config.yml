@@ -14,8 +14,8 @@ resume_name:                    "Julian Weiss"
 resume_title:                   "Fullstack Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "julian@openmessage.io"
-resume_header_contact_info:     "<i class='em em-croissant no-print'></i> Brooklyn, NY • <i class='em em-mailbox_with_mail no-print'></i> julian@openmessage.io"
+resume_contact_email:           "me@insanj.com"
+resume_header_contact_info:     "<i class='em em-croissant no-print'></i> Brooklyn, NY • <i class='em em-mailbox_with_mail no-print'></i> me@insanj.com"
 
 display_header_contact_info:    "true"
 
