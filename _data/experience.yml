@@ -4,20 +4,20 @@
   duration: December 2018 &mdash; February 2019
   summary: <i class="em em-green_apple no-print"></i> Part of the core OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue. Mobile messaging. Reimagined.
 
-- company: <a href="https://insanj.com">Freelancer</a>
-  position: Fullstack Developer in Philadelphia, PA
-  duration: 2016 &mdash; 2018
-  summary: Created the entire technology stack for startup projects lead by artists, entrepreneurs, and myself. <i class="em no-print em-sparkles"></i> <a href="http://amprojectedrelation.com/">AM/Projected Relation</a> was recently chosen by the University of Rochester for alumni recognition. Between 2013-2016 was an extremely active blogger and community member. Gave recorded technical talks at RocHack and WWJC (two talks recorded). Posted numerous essays and projects to Medium, Twitter, YouTube, and personal blogs.
-
 - company: <a href="https://slyce.it">Slyce</a>
   position: Mobile Developer in Philadelphia, PA
   duration: July, 2017 &mdash; July, 2018
-  summary: Worked fulltime for a year as a mobile engineer on the green field SDK 5. Primary responsibilities included&colon; <i class="em no-print em-phone"></i> Swift, Objective-C, Xcode, Java, Android Studio. <i class="em no-print em-hammer"></i> Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. <i class="em em-building_construction no-print"></i> JIRA, Planning Poker, Kanban, Culture Warriors.
+  summary: Worked fulltime as a mobile engineer on the green field SDK 5. Primary responsibilities included&colon; <i class="em no-print em-phone"></i> Swift, Objective-C, Xcode, Java, Android Studio. <i class="em no-print em-hammer"></i> Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. <i class="em em-building_construction no-print"></i> JIRA, Planning Poker, Kanban, Culture Warriors.
+
+- company: <a href="https://insanj.com">Freelance</a>
+  position: Fullstack Developer in Philadelphia, PA
+  duration: 2016 &mdash; 2018
+  summary: Created entire technology stack for startups lead by artists, entrepreneurs, & myself. <i class="em no-print em-sparkles"></i> <a href="http://amprojectedrelation.com/">AM/Projected Relation</a> was given alumni recognition by University of Rochester. Gave talks at RocHack, WWJC. Extremely active blogger and community member, with posted material on Medium, Twitter, YouTube, & personal sites.
 
 - company: <a href="https://insanj.com">Lead iOS Developer & Freelance Engineer</a>
   position: Objective-C and Swift Developer in NYC, NY
   duration: 2016
-  summary: Lead startup mobile teams at&colon; <i class="em no-print em-closed_book"></i> REVUU, <i class="em no-print em-basketball"></i> DribbleUp, and <i class="em no-print em-dog"></i> Gampets.<br/>Contributed core technologies to&colon; <i class="em no-print em-keyboard"></i> Giffage, <i class="em no-print em-tv"></i> Cold Open, <i class="em no-print em-shopping_bags"></i> Flogg, <i class="em no-print em-lower_left_paintbrush"></i> Smock, and several more unreleased projects.
+  summary: Lead startup mobile teams at&colon; <i class="em no-print em-closed_book"></i> REVUU, <i class="em no-print em-basketball"></i> DribbleUp, & <i class="em no-print em-dog"></i> Gampets. Contributed core technologies to&colon; <i class="em no-print em-keyboard"></i> Giffage, <i class="em no-print em-tv"></i> Cold Open, <i class="em no-print em-shopping_bags"></i> Flogg, <i class="em no-print em-lower_left_paintbrush"></i> Smock, & several unreleased projects.
 
 - company: <a href="https://insanj.com/urlinq/">Urlinq</a>
   position: Vice President of iOS Product Development in NYC, NY
@@ -27,9 +27,9 @@
 - company: <a href="https://insanj.com/_archives/#github-contributions">Jailbreak Developer</a>
   position: Objective-C/Logos/Theos Engineer
   duration: 2013 &mdash; 2015
-  summary: <i class="em em-open_hands no-print"></i> Developed, designed, and managed distribution for 100+ tweaks and open source components.
+  summary: <i class="em em-open_hands no-print"></i> Developed, designed, & managed distribution for 100+ tweaks and open source components.
 
 - company: <a href="https://youtube.com/insanj">YouTube Partner & Community Java Developer</a>
   position: YouTube Partner
-  duration: 2009 &mdash; 2013 (a little in 2018)
-  summary: <i class="em em-camera no-print"></i> Wrote, filmed, produced over 250 videos, primarily with a focus on technology. In 2011, created several <a href="https://github.com/insanj/BlockChanger">Bukkit mod projects</a> with extensive tutorials on YouTube and Github.
+  duration: 2009 &mdash; 2013 (and briefly in 2018-2019)
+  summary: <i class="em em-camera no-print"></i> Wrote, filmed, produced over 250 videos, mostly about technology. Created <a href="https://github.com/insanj/BlockChanger">Bukkit mods</a> with tutorials on YouTube, Github.

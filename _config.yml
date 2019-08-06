@@ -1,6 +1,6 @@
 # Site settings
 title: "Julian Weiss"
-description: "<i class='em em-art no-print'></i> hyperactive software developer on the hunt for new projects"
+description: "<i class='em em-art no-print'></i> hyperactive software developer"
 
 # Build settings
 markdown: kramdown
@@ -15,11 +15,11 @@ resume_title:                   "Fullstack Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "me@insanj.com"
-resume_header_contact_info:     "<i class='em em-croissant no-print'></i> Brooklyn, NY • <i class='em em-mailbox_with_mail no-print'></i> me@insanj.com"
+resume_header_contact_info:     "<i class='em em-blowfish no-print'></i> Fishtown, Philadelphia, PA • <i class='em em-mailbox_with_mail no-print'></i> me@insanj.com"
 
 display_header_contact_info:    "true"
 
-resume_header_intro: '<p><i class="em em-tada no-print"></i> 23-year old entrepreneur based in <b>Brooklyn, NY</b>.</p><p><b><i class="em em-croissant no-print"></i> Fullstack software developer</b>, design pragmatist, music enthusiast, college grad.</p><p><i class="em em-muscle no-print"></i> I have been freelancing and creating open source projects for <b>nearly ten years</b>.</p><p><i class="em em-city_sunrise no-print"></i> Before publishing my own apps on the App Store and working as a <b>fulltime engineer in NYC and Philly</b>, I created hundreds of community-driven ideas from Minecraft mods to Jailbreak tweaks.</p>'
+resume_header_intro: '<p><i class="em em-tada no-print"></i> 24-year old entrepreneur based in <b>Philadelphia, PA</b>.</p><p><b><i class="em em-croissant no-print"></i> Software engineer</b>, design pragmatist, music enthusiast, college grad.</p><p><i class="em em-muscle no-print"></i> I have been freelancing & creating open source projects for <b>nearly ten years</b>.</p><p><i class="em em-city_sunrise no-print"></i> Before publishing my own apps on the App Store and working as a <b>fulltime engineer in NYC and Philly</b>, I created hundreds of community-driven ideas from Minecraft mods to Jailbreak tweaks.</p>'
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
