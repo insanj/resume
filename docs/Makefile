@@ -12,6 +12,7 @@ setup-macos:
 	brew install automake
 	brew install libffi
 	LDFLAGS="-L/usr/local/opt/libffi/lib" sudo bundle install
+# cd $(xcode-select -p)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0 && ln -s universal-darwin20 universal-darwin19
 
 setup-linux:
 	sudo apt install libffi-dev

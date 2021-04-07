@@ -1,18 +1,23 @@
 # Jobs
+- company: <a href="https://peerpal.com">PeerPal</a>
+  position: Senior Fullstack Engineer &bull; Rochester, NY
+  duration: Sept 2020 &mdash; Present
+  summary: <i class="em em-pencil no-print"></i> PeerPal is a cutting edge technology platform for private schools and colleges. Connect your prospective students and parents with the ambassadors who love your school the most&colon; your current students and parents.
+
 - company: <a href="https://snowcode.design">Snowcode</a>
-  position: Lead Developer in Rochester, NY
+  position: Founder &bull; Rochester, NY
   duration: 2020 &mdash; Present
-  summary: <i class="em em-snowflake no-print"></i> Snowcode is a contract software development and design firm with a pool of artists and creatives. We create high-end software, video production, and graphic design for the lowest market price.
+  summary: <i class="em em-snowflake no-print"></i> Snowcode is a software development and design agency with a pool of artists and creatives. We create high-end software, video production, and games.
 
 - company: <a href="https://openmessage.io">OpenMessage</a>
   position: Fullstack Developer in New York City
-  duration: December 2018 &mdash; February 2019
+  duration: Dec 2018 &mdash; Feb 2019
   summary: <i class="em em-green_apple no-print"></i> Part of the core OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue. Mobile messaging. Reimagined.
 
 - company: <a href="https://slyce.it">Slyce</a>
   position: Mobile Developer in Philadelphia, PA
-  duration: July, 2017 &mdash; July, 2018
-  summary: Worked fulltime as a mobile engineer on the green field SDK 5. Primary responsibilities included&colon; <i class="em no-print em-phone"></i> Swift, Objective-C, Xcode, Java, Android Studio. <i class="em no-print em-hammer"></i> Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. <i class="em em-building_construction no-print"></i> JIRA, Planning Poker, Kanban, Culture Warriors.
+  duration: Jul 2017 &mdash; Jul 2018
+  summary: Worked on the green field SDK 5. Primary responsibilities included&colon; <i class="em no-print em-phone"></i> Swift, Objective-C, Xcode, Java, Android Studio. <i class="em no-print em-hammer"></i> Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. <i class="em em-building_construction no-print"></i> JIRA, Planning Poker, Kanban, Culture Warriors.
 
 - company: <a href="https://insanj.com">Lead iOS Developer & Freelance Engineer</a>
   position: Objective-C, Swift, Fullstack Developer in Rochester & NYC
