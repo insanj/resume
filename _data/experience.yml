@@ -2,22 +2,22 @@
 
 - company: <a href="https://snowcode.design">Snowcode</a>, Independent Contractor
   position: Founder &bull; Remote, New Jersey, &amp; Rochester, NY
-  duration: August 2020 &mdash; Present
+  duration: <span title="Aug 2020">2020</span> &mdash; Present
   summary: Snowcode was a software development and design agency with a pool of artists and creatives. Game development, video production, and web publishing. Since Jan 2021, Swift, React Native developer for Nova Pursuits and Gamebytes. 
 
 - company: <a href="https://peerpal.com">PeerPal</a>
   position: Senior Fullstack Engineer &bull; Remote
-  duration: Sept 2020 &mdash; Sept 2021
+  duration: <span title="Sept 2020">2020</span> &mdash; <span title="Sept 2021">2021</span>
   summary: PeerPal was a groundbreaking ed-tech platform for the admissions process. Built infrastructure, native iOS, Android, desktop applications, progressive web apps, and responsive modern websites using Vue, React Native, native Javascript, Swift, Docker, Jenkins, and more.
 
 - company: <a href="https://openmessage.io">OpenMessage</a>
   position: Fullstack Developer in New York City
-  duration: Dec 2018 &mdash; Feb 2019
+  duration: <span title="Dec 2018">2018</span> &mdash; <span title="Feb 2019">2019</span>
   summary: Part of the core OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue. Full stack work in React, Python, Node.JS, CI/CD tools, Twilio, and more. Mobile messaging. Reimagined.
 
 - company: <a href="https://slyce.it">Slyce</a>
   position: Mobile Developer in Philadelphia, PA
-  duration: Jul 2017 &mdash; Jul 2018
+  duration: <span title="Jul 2017">2017</span> &mdash; <span title="Jul 2018">2018</span>
   summary: Worked on the green field SDK 5. Primary responsibilities included&colon; Swift, Objective-C, Xcode, Java, Android Studio. Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. JIRA, Planning Poker, Kanban, Culture Warriors.
 
 - company: <a href="https://julianweiss.net">Lead iOS Developer & Freelance Engineer</a>
