@@ -15,11 +15,11 @@ resume_title:                   "Senior Fullstack Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "julian@snowcode.design"
-resume_header_contact_info:     "<i class='em em-pushpin no-print'></i> Upstate New York • <i class='em em-envelope no-print'></i> julian@snowcode.design"
+resume_header_contact_info:     "julian@snowcode.design"
 
 display_header_contact_info:    "true"
 
-resume_header_intro: '<p><i class="em em-tada no-print"></i> 26-year old entrepreneur based in <b>Upstate New York</b>.</p><p><b><i class="em em-croissant no-print"></i> Software engineer</b>, design pragmatist, video game developer.</p><p><i class="em em-muscle no-print"></i> I have been creating open source projects & freelancing for over <b>ten years</b>.</p><p><i class="em em-city_sunrise no-print"></i> Since college, I have worked as a full-time engineer in <b>NYC</b>, <b>Philly</b>, and <b>Rochester</b>.</p>'
+resume_header_intro: '<p><i class="em em-tada no-print"></i> 26-year old entrepreneur based in <b>New Jersey</b>.</p><p><b><i class="em em-croissant no-print"></i> Software engineer</b>, design pragmatist, video game developer.</p><p><i class="em em-muscle no-print"></i> I have been creating open source projects & freelancing for over <b>ten years</b>.</p><p><i class="em em-city_sunrise no-print"></i> Since college, I have worked as a full-time engineer in <b>New York City</b>, <b>Philly</b>, and <b>Rochester</b>.</p>'
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

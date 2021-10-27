@@ -1,36 +1,37 @@
 # Jobs
+
+- company: <a href="https://snowcode.design">Snowcode</a>, Independent Contractor
+  position: Founder &bull; Remote, New Jersey, &amp; Rochester, NY
+  duration: August 2020 &mdash; Present
+  summary: Snowcode was a software development and design agency with a pool of artists and creatives. Game development, video production, and web publishing. Since Jan 2021, Swift, React Native developer for Nova Pursuits and Gamebytes. 
+
 - company: <a href="https://peerpal.com">PeerPal</a>
   position: Senior Fullstack Engineer &bull; Remote
-  duration: Sept 2020 &mdash; Present
-  summary: <i class="em em-pencil no-print"></i> PeerPal is an ed-tech platform that helps connect prospective families with students, parents, alumni, and faculty.
-
-- company: <a href="https://snowcode.design">Snowcode</a>, Contractor
-  position: Founder &bull; Remote, prev Rochester, NY
-  duration: August 2020 &mdash; Present
-  summary: <i class="em em-snowflake no-print"></i> Snowcode is a software development and design agency with a pool of artists and creatives. <i class="em em-rocket no-print"></i> Swift developer for Nova Pursuits (Jan 2021). <i class="em em-video_game no-print"></i> Swift, React Native developer for Gamebytes (Jan 2021).
+  duration: Sept 2020 &mdash; Sept 2021
+  summary: PeerPal was a groundbreaking ed-tech platform for the admissions process. Built infrastructure, native iOS, Android, desktop applications, progressive web apps, and responsive modern websites using Vue, React Native, native Javascript, Swift, Docker, Jenkins, and more.
 
 - company: <a href="https://openmessage.io">OpenMessage</a>
   position: Fullstack Developer in New York City
   duration: Dec 2018 &mdash; Feb 2019
-  summary: <i class="em em-green_apple no-print"></i> Part of the core OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue. Mobile messaging. Reimagined.
+  summary: Part of the core OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue. Full stack work in React, Python, Node.JS, CI/CD tools, Twilio, and more. Mobile messaging. Reimagined.
 
 - company: <a href="https://slyce.it">Slyce</a>
   position: Mobile Developer in Philadelphia, PA
   duration: Jul 2017 &mdash; Jul 2018
-  summary: Worked on the green field SDK 5. Primary responsibilities included&colon; <i class="em no-print em-phone"></i> Swift, Objective-C, Xcode, Java, Android Studio. <i class="em no-print em-hammer"></i> Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. <i class="em em-building_construction no-print"></i> JIRA, Planning Poker, Kanban, Culture Warriors.
+  summary: Worked on the green field SDK 5. Primary responsibilities included&colon; Swift, Objective-C, Xcode, Java, Android Studio. Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. JIRA, Planning Poker, Kanban, Culture Warriors.
 
 - company: <a href="https://julianweiss.net">Lead iOS Developer & Freelance Engineer</a>
   position: Objective-C, Swift, Fullstack Developer in Rochester & NYC
   duration: 2016 &mdash; 2018
-  summary: Published <i class="em no-print em-anchor"></i> Submarine on the App Store. Lead startup mobile teams at&colon; <i class="em no-print em-closed_book"></i> REVUU, <i class="em no-print em-basketball"></i> DribbleUp, <i class="em no-print em-dog"></i> Gampets. Contributed core technologies to&colon; <i class="em no-print em-keyboard"></i> Giffage, <i class="em no-print em-tv"></i> Cold Open, <i class="em no-print em-shopping_bags"></i> Flogg, <i class="em no-print em-lower_left_paintbrush"></i> Smock, and more. <i class="em no-print em-sparkles"></i> <a href="http://amprojectedrelation.com/">AM/Projected Relation</a> was given alumni recognition by University of Rochester. Gave talks at RocHack, WWJC, created community content on Medium, Twitter, YouTube, personal sites.
+  summary: Published Submarine on the App Store. Lead startup mobile teams at&colon; <i class="em no-print em-closed_book"></i> REVUU, <i class="em no-print em-basketball"></i> DribbleUp, <i class="em no-print em-dog"></i> Gampets. Contributed core technologies to&colon; <i class="em no-print em-keyboard"></i> Giffage, <i class="em no-print em-tv"></i> Cold Open, <i class="em no-print em-shopping_bags"></i> Flogg, <i class="em no-print em-lower_left_paintbrush"></i> Smock, and more. <i class="em no-print em-sparkles"></i> <a href="http://amprojectedrelation.com/">AM/Projected Relation</a> was given alumni recognition by University of Rochester. Gave talks at RocHack, WWJC, created community content on Medium, Twitter, YouTube, personal sites.
 
 - company: <a href="https://insanj.com/urlinq/">Urlinq</a>
   position: Vice President of iOS Product Development in NYC
   duration: 2013 &mdash; 2015
-  summary: <i class="em no-print em-trophy"></i> Won 1st place at NYU Global Hackathon for Alloy iOS. Objective-C, Swift, Fullstack Developer, Designer for the mobile team at the NYU-based university social network startup.
+  summary: Won 1st place at NYU Global Hackathon for Alloy iOS. Objective-C, Swift, Fullstack Developer, Designer for the mobile team at the NYU-based university social network startup.
 
 - company: <a href="https://julianweiss.net">Jailbreak, Java, YouTube Developer</a>
   position: Community Engineer, Video Game Modder, Google Partner
   duration: 2009 &mdash; 2015
-  summary: <i class="em em-open_hands no-print"></i> Developed, designed, managed distribution for 100+ tweaks and open source components. <i class="em em-video_camera no-print"></i> Wrote, filmed, produced 250+ videos, mostly about technology. Created Bukkit mods with tutorials on YouTube, Github.
+  summary: Developed, designed, managed distribution for 100+ tweaks and open source components. Wrote, filmed, produced 250+ videos, mostly about technology. Created Bukkit mods with tutorials on YouTube, Github.
 
