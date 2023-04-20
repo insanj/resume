@@ -10,21 +10,33 @@
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
 
       <header class="page-header">
+        <div class="page-header-flex no-print">
+          <div class="page-header-flex-left">
+            <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
-        <!-- You can turn off the avatar in _config.yml by setting to false -->
-        {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
-        {% endif %}
+            {% if site.display_header_contact_info == 'true' %}
+            <div class="header-contact-info">
+              {{ site.resume_header_contact_info }}
+            </div>
+            {% endif %}
+          </div>
 
-        <!-- Your name is defined in the _config.yml file -->
-        <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
-
-        <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
-        {% if site.display_header_contact_info == 'true' %}
-        <div class="header-contact-info">
-          <p>{{ site.resume_header_contact_info }}</p>
+          <div class="page-header-flex-right no-print">
+            {% if site.resume_avatar == 'true' %}
+            <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+            {% endif %}
+          </div>
         </div>
-        {% endif %}
+
+        <div class="print-only">
+          <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
+
+          {% if site.display_header_contact_info == 'true' %}
+          <div class="header-contact-info">
+            {{ site.resume_header_contact_info }}
+          </div>
+          {% endif %}
+        </div>
 
         <div class="title-bar no-print">
 
@@ -232,7 +244,7 @@
       {% endif %}
 
       <footer class="page-footer no-print">
-        <p class="footer-line">&copy; 2018-2022 Julian Weiss, last updated 28 April 2022
+        <p class="footer-line">&copy; 2018-2023 Julian Weiss, last updated 20 Apr 2023
           <span style="margin: 5px">|</span> 
         <i class="em em-space_invader no-print"></i> <a href="https://github.com/insanj/resume">hosted on github</a> 
         </p>
