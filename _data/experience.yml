@@ -1,36 +1,36 @@
 # Jobs
 
+- company: <a href="https://aviato.co">Aviato</a>
+  position: Senior Frontend Web Developer &bull; Remote
+  duration: <span title="July 2022">July 2023</span> &mdash; Present
+  summary: Aviato is a startup search engine. Member of the core team responsible for agile webapp development using React, Tailwind.css, TanStack Query, OpenSearch, Linear, Figma.
+
 - company: <a href="https://fion.tech">Fion</a>
   position: Fullstack Engineer &bull; Remote
-  duration: <span title="July 2022">July 2022</span> &mdash; Present
-  summary: Fion Maps is a Situational Awareness App for firefighters. Lead Full Stack Engineer of a small remote team which exceeded the industry standards. Developed core technology and IP, including an in-house C-to-React Native variant of the GDAL framework and end-to-end automated CI/CD to work hand-in-hand with Product Mangement.
+  duration: <span title="July 2022">July 2022</span> &mdash; May 2023
+  summary: Fion Maps was a situational awareness app for firefighters. Lead full stack engineer of the lean remote team which exceeded industry standards. Developed core tech and IP, including an in-house C-to-React Native variant of GDAL, end-to-end CircleCI CI/CD.
 
 - company: <a href="https://www.gamebytes.io/">Gamebytes</a>, <a href="https://www.novapursuits.com/">Nova Pursuits</a>, <a href="https://snowcode.design">Snowcode</a>
   position: Fullstack Engineer &bull; Remote
   duration: <span title="Aug 2020">Aug 2020</span> &mdash; 2022
-  summary: Snowcode was a software development and design agency with a pool of artists and creatives. Since Jan 2021, Swift, React Native developer for Nova Pursuits and Gamebytes. In Jan 2022, self-published a cross platform video game with my own engine, <i>Oogy&colon; Can You Help</i>, on Steam. Since Sept 2022, over 190 open source Github projects.
+  summary: Snowcode was a software dev, design agency with a pool of artists and creatives. Since Jan 2021, Swift, React Native dev for Nova Pursuits, Gamebytes. In Jan 2022, published a cross platform video game with my own engine, <i>Oogy&colon; Can You Help</i>, on Steam. Since Sept 2022, over 190 open source Github projects.
 
 - company: <a href="https://peerpal.com">PeerPal</a>
   position: Senior Fullstack Engineer &bull; Remote
   duration: <span title="Sept 2020">Sept 2020</span> &mdash; <span title="Sept 2021">2021</span>
   summary: Acquired by Graduway in Summer 2021. First engineer hired by the startup in 2020. Built infra, native iOS, Android, desktop, progressive web apps, responsive modern sites with Vue, React Native, vanilla Javascript, Swift, Docker, Jenkins.
 
-- company: <a href="https://openmessage.io">OpenMessage</a>
-  position: Fullstack Engineer &bull; New York City
-  duration: <span title="Dec 2018">Dec 2018</span> &mdash; <span title="Feb 2019">2019</span>
-  summary: Part of the core OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue. Full stack work in React, Python, Node.JS, CI/CD tools, Twilio. Mobile messaging. Reimagined.
-
 - company: <a href="https://slyce.it">Slyce</a>
   position: Mobile Developer &bull; Philadelphia, PA
   duration: <span title="Jul 2017">Jul 2017</span> &mdash; <span title="Jul 2018">2018</span>
   summary: Worked on the green field SDK 5. Primary responsibilities included&colon; Swift, Objective-C, Xcode, Java, Android Studio. Jenkins, Makefiles, cross-platform VPS agents, Git, Quip, Slack. JIRA, Planning Poker, Kanban, Culture Warriors.
 
-- company: <a href="https://dribbleup.com/">DribbleUp</a>, <a href="https://www.crunchbase.com/organization/flogg">Flogg</a>, <a href="https://www.crunchbase.com/organization/gampets">Gampets</a>, <a href="https://twitter.com/REVUU_app">REVUU</a>
+- company: <a href="https://openmessage.io">OpenMessage</a>, <a href="https://dribbleup.com/">DribbleUp</a>, <a href="https://www.crunchbase.com/organization/flogg">Flogg</a>, <a href="https://www.crunchbase.com/organization/gampets">Gampets</a>, <a href="https://twitter.com/REVUU_app">REVUU</a>
   position: Fullstack Engineer &bull; Remote & NYC
-  duration: 2016 &mdash; 2018
-  summary: Lead startup mobile teams at&colon; REVUU, DribbleUp, Gampets.  Self-published Submarine for Reddit on App Store. Contributed core tech to&colon; Giffage, Cold Open, Flogg, Smock. <a href="http://amprojectedrelation.com/">AM/Projected Relation</a>  given alumni recognition by University of Rochester. Content shared via RocHack, WWJC, Medium, Twitter, YouTube, personal sites.
+  duration: 2016 &mdash; 2018 (and a bit in 2019)
+  summary: Lead startup mobile teams at&colon; REVUU, DribbleUp, Gampets. Published Submarine for Reddit on App Store. Contributed core tech&colon; Giffage, Cold Open, Flogg, Smock. <a href="http://amprojectedrelation.com/">AM/Projected Relation</a>  given alumni recognition by University of Rochester. Content shared via RocHack, WWJC, Medium, Twitter, YouTube, personal sites. Part of the OM team in the <a href="https://loeb.nyc">the Loeb Industries building</a> on 5th avenue from Dec 2018 - Feb 2019. Full stack work in React, Python, Node.JS, CI/CD, Twilio.
 
 - company: <a href="https://insanj.com/urlinq/">Urlinq</a>
   position: Vice President of iOS Product Development &bull; NYC
   duration: 2013 &mdash; 2015
-  summary: Won 1st place at NYU Global Hackathon for Alloy iOS. Objective-C, Swift, Fullstack Developer, Designer for the mobile team at the NYU-based university social network startup.
+  summary: Won 1st place at NYU Global Hackathon for Alloy iOS. ObjC, Swift, Fullstack Developer, Designer for the mobile team at the NYU-based university social network startup.
