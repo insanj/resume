@@ -42,9 +42,9 @@ resume_section_education: true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url: "https://github.com/insanj/resume"
-  resume_twitter_url: "https://twitter.com/insanj"
+  resume_twitter_url: "https://bsky.app/profile/insanj.com"
   resume_linkedin_url: "https://www.linkedin.com/in/insanj"
-  resume_instagram_url: "https://www.instagram.com/insanj"
+  resume_instagram_url: "https://www.threads.net/@insanj"
   resume_website_url: "https://insanj.com"
   resume_medium_url: "https://medium.com/@insanj"
 resume_print_social_links: false
