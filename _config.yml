@@ -19,7 +19,7 @@ resume_header_contact_info: "insanj.com  -  julian@snowcode.design"
 
 display_header_contact_info: "true"
 
-resume_header_intro: '<p><b><i class="em em-croissant no-print"></i> Software engineer</b>, design pragmatist, indie video game developer.</p><p><i class="em em-muscle no-print"></i> I have been creating open source projects & freelancing for over <b>ten years</b>.</p><p><i class="em em-city_sunrise no-print"></i> I have worked as a full-time developer in <b>NJ</b>, <b>NYC</b>, <b>Philly</b>, and <b>Rochester</b>.</p>'
+resume_header_intro: '<p><b><i class="em em-croissant no-print"></i> Software engineer</b>, design pragmatist, indie video game developer.</p><p><i class="em em-muscle no-print"></i> I have been creating open source projects & freelancing for over <b>ten years</b>.</p><p><i class="em em-city_sunrise no-print"></i> I have worked as a full-time developer in <b>Philly</b>, <b>NYC</b>, <b>NJ</b>, and <b>Rochester</b>.</p>'
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

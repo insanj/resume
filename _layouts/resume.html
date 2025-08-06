@@ -88,22 +88,24 @@
           <h2>Education</h2>
         </header>
 
-        {% for education in site.data.education %}
-        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-          <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
-          <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-          <p class="resume-item-copy" itemprop="description">
-            <ul class="resume-item-list">
-              {% for award in education.awards %}
-              <li>{{ award.award }}</li>
-              {% endfor %}
-            </ul></h5>
+        <div style="display: grid; grid-template-columns: 1fr 1fr;">
+          {% for education in site.data.education %}
+            <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+              <h3 class="resume-item-title" style="font-size: 1.2em;" itemprop="name">{{ education.uni }}</h3>
+              <h4 class="resume-item-details group" style="font-size: 1em;" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
+              <h5 class="resume-item-details award-title" style="font-size: 0.8em; font-weight: 500; line-height: 1.5;" itemprop="description">{{ education.award }}</h5>
+              <p class="resume-item-copy" itemprop="description">
+                <ul class="resume-item-list">
+                  {% for award in education.awards %}
+                  <li>{{ award.award }}</li>
+                  {% endfor %}
+                </ul></h5>
 
-
-          <p class="resume-item-copy">{{ education.summary }}</p>
+              <p class="resume-item-copy">{{ education.summary }}</p>
+            </div>
+          {% endfor %}
         </div>
-        {% endfor %}
+
       </section>
       <!-- end Education -->
       {% endif %}
@@ -244,7 +246,7 @@
       {% endif %}
 
       <footer class="page-footer no-print">
-        <p class="footer-line">&copy; 2018-2025 Julian Weiss, last updated 17 Jan 2025
+        <p class="footer-line">&copy; 2018-2025 Julian Weiss, last updated 6 Aug 2025
           <span style="margin: 5px">|</span> 
         <i class="em em-space_invader no-print"></i> <a href="https://github.com/insanj/resume">hosted on github</a> 
         </p>
